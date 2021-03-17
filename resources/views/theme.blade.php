@@ -19,6 +19,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/searchemp">Search</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/aboutus">About</a>
+        </li>
         
       </ul>
     </div>
